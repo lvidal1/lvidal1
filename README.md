@@ -4,7 +4,7 @@ Hi 👋 My name is Leonardo Vidal
 Full Stack developer
 --------------------
 
-Hello! I am a “Stack team player” with 8 years of significant experience in Classic/Cutting-Edge back-end and front-end technologies, including CI / CD and Cloud.
+Hello! I am a “Stack team player” with 9 years of significant experience in Classic/Cutting-Edge back-end and front-end technologies, including CI / CD and Cloud.
 
 * 🌍  I'm based in Perú
 * 🖥️  See my portfolio at [lvidal.pe](http://lvidal.pe)
