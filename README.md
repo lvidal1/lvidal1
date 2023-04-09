@@ -4,12 +4,12 @@ Hi 👋 My name is Leonardo Vidal
 Full Stack developer
 --------------------
 
-Hello! I am a “Stack team player” with 9 years of significant experience in Classic/Cutting-Edge back-end and front-end technologies, including CI / CD and Cloud.
+Hello! I am a “Stack team player” with several years of significant experience in Classic/Cutting-Edge back-end and front-end technologies, including CI / CD and Cloud.
 
 * 🌍  I'm based in Perú
 * 🖥️  See my portfolio at [lvidal.pe](http://lvidal.pe)
 * ✉️  You can contact me at [lvidal910@gmail.com](mailto:lvidal910@gmail.com)
-* 🧠  I'm learning Fullstack JS Framework like "RemixJS" & Data Science Principles
+* 🧠  I'm learning Fullstack JS Framework like [RemixJS](https://remix.run/) & [Quik](https://qwik.builder.io/)
 * ⚡  I love to play Half-Life & StarCraft. For Aiur!!
 
 ### Skills
