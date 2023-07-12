@@ -9,7 +9,7 @@ Hello! I am a “Stack team player” with several years of significant experien
 * 🌍  I'm based in Perú
 * 🖥️  See my portfolio at [lvidal.pe](http://lvidal.pe)
 * ✉️  You can contact me at [lvidal910@gmail.com](mailto:lvidal910@gmail.com)
-* 🧠  I'm learning Fullstack JS Framework like [RemixJS](https://remix.run/) & [Quik](https://qwik.builder.io/)
+* 🧠  I'm learning Fullstack JS Framework like [NextJS](https://nextjs.org/) & [Quik](https://qwik.builder.io/)
 * ⚡  I love to play Half-Life & StarCraft. For Aiur!!
 
 ### Skills
@@ -53,8 +53,5 @@ Hello! I am a “Stack team player” with several years of significant experien
 
 ### Badges
 
-<b>My GitHub Stats</b>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal1&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en)
 
-<a href="http://www.github.com/lvidal1"><img src="https://github-readme-stats.vercel.app/api?username=lvidal1&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="lvidal1's GitHub stats" /></a>
-
-<a href="https://github.com/lvidal1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal1&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
