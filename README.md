@@ -9,7 +9,7 @@ Hello! I am a “Stack team player” with several years of significant experien
 * 🌍  I'm based in Perú
 * 🖥️  See my portfolio at [lvidal.pe](http://lvidal.pe)
 * ✉️  You can contact me at [lvidal910@gmail.com](mailto:lvidal910@gmail.com)
-* 🧠  I'm learning Fullstack JS Framework like [NextJS](https://nextjs.org/) & [Quik](https://qwik.builder.io/)
+* 🧠  I play great with Fullstack JS Framework like [NextJS](https://nextjs.org/)
 * ⚡  I love to play Half-Life & StarCraft. For Aiur!!
 
 ### Skills
